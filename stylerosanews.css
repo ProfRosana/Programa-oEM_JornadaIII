@@ -1,0 +1,104 @@
+title 
+{color: rgb(20, 2, 39);
+    text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+font-display: center;}
+.h1
+{text-align: center;
+margin:0%}
+.banner {
+    height: 300px;
+    width: 1300px;
+margin: 0%;}
+
+.h2 {color:black;
+text-align: right;
+font-size: 10px;
+margin:0%;}
+
+.h3
+{color: rgb(0, 0. 0);
+text-align: center;
+border: 3px solid rgb(0, 12, 2);
+margin: 0%;}
+.logo1 {height: 10%;
+    width: 5%;
+margin: 0%;}
+ .logo2 {height: 12%;
+ width: 5%;
+ margin: 0%;}
+body
+    {background: rgb(229, 249, 240);
+    font-size: 35px;
+    color: rgb(4, 0, 27);
+    padding: 1%;
+    margin: 1%;}
+.p
+{text-align: center;
+    padding: 1%;
+    margin: 1%;}
+
+.pa 
+{text-align: center;
+font-size: 40px;
+color:rgb(4, 0, 27);
+padding: 1%;
+margin: 1%;}
+.pb
+{text-align: center;
+font-size: 40px;
+color:rgb(4, 0, 27);
+padding: 1%;
+margin: 1%;}
+.pc
+{text-align: center;
+font-size: 40px;
+color:rgb(4, 0, 27);
+padding: 1%;
+margin: 1%;}
+.p1
+    {text-align: center;
+    font-size: 40px;
+    color:rgb(4, 0, 27);
+    padding: 1%;
+    margin: 1%;}
+    .p1a
+    {text-align: center;
+        padding: 1%;
+        margin: 1%;}
+    .p2
+    {text-align: center;
+    font-size: 40px;
+    color:rgb(4, 0, 27);
+    padding: 1%;
+    margin: 1%;}
+    .p3
+    {text-align: center;
+    font-size: 40px;
+    color:rgb(4, 0, 27);
+    padding: 1%;
+    margin: 1%;}
+.ferramenta1{ height: 25%;
+width: 30%;
+border: 1px solid rgb(255, 255, 255);}
+
+.ferramenta2{ height: 25%;
+width: 30%;
+border: 1px solid rgb(255, 255, 255);}
+
+.ferramenta3{ height: 25%;
+width: 30%;
+border: 1px solid rgb(255, 255, 255);}
+
+.ferramenta4{ height: 25%;
+width: 30%;
+border: 1px solid rgb(255, 255, 255);
+}
+.ferramenta5{  
+height: 25%;
+width: 30%;
+border: 1px solid rgb(255, 255, 255);
+}
+
+     
+
